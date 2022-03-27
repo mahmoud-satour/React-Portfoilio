@@ -1,0 +1,43 @@
+section {
+    margin: 150px 0px ;
+}
+
+section .about {
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+    height: auto;
+}
+
+.about img {
+    border: 7px solid black;
+    outline: 11px solid #08d665;
+}
+
+.mainheader {
+    color: #fff!important;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.mainheader span {
+    color: #08d665;
+}
+
+.about p {
+    color: #fff;
+    margin: 20px 0;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+
+.info {
+    color:#fff;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.info div {
+    padding-top: 20px;
+}

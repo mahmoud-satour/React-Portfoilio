@@ -1,0 +1,11 @@
+footer {
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+    height: auto;
+}
+
+footer h6 {
+    color: #fff;
+    margin-bottom: 30px!important;
+}

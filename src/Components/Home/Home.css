@@ -1,0 +1,43 @@
+
+
+.homeSec {
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+    height: auto;
+    background-image: url("../../images/2.jpg");
+    background-size: cover;
+    margin-top: 73px;
+}
+
+.homeSec .jumbotron {
+    margin-top: 100px;
+    background-color: transparent;
+}
+
+.homeSec .jumbotron h1 {
+    color: #08d665;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+.homeSec .jumbotron h2 {
+    color: white;
+}
+
+.homeSec .jumbotron p {
+    color: white;
+    font-size: 14px;
+    padding-bottom: 0;
+    max-width: 100%;
+}
+
+.homeSec .jumbotron .Btn {
+    background: #08d665;
+    border-color: #08d665;
+    color: #fff;
+    text-transform: capitalize;
+    margin-top: 30px;
+    padding: 12px 32px;
+    border-radius: 30px;
+}

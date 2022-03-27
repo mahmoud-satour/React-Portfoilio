@@ -1,0 +1,22 @@
+.navbar {
+    background-color: black!important;
+}
+
+.navbar-light .navbar-brand {
+    font-size: 32px!important;
+    text-transform: uppercase!important;
+    color: #08d665!important;
+    font-weight: 700!important;
+}
+
+.nav-link {
+    color: white!important;
+    text-transform: uppercase!important;
+    font-weight: 600!important;
+    font-size: 15px!important;
+    padding: 0 20px!important;
+}
+
+.nav-link:hover {
+    color: #08d665!important;
+}

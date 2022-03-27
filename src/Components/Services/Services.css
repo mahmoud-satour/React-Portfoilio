@@ -1,0 +1,40 @@
+section h1 {
+    color: white;
+}
+
+section h1 span {
+    color: #08d665;
+}
+
+.box {
+    border: 1px solid #fff ;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+.box h4 {
+    text-align: center;
+    margin:30px 0;
+    color: white;
+    letter-spacing: 1px;
+}
+
+.box p {
+    text-align: center;
+    color: #fff;
+}
+
+.box:hover h4 {
+    color: #08d665;
+}
+
+.box img {
+    width: 80%;
+    margin: 20px 25px;
+    filter: grayscale(0.8);
+}
+
+.box:hover img {
+    filter: grayscale(0);
+    transition: 0.3s;
+}

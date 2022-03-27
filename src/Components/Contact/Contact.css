@@ -1,0 +1,47 @@
+
+.contact form input {
+    background-color: transparent;
+    border: 1px solid #fff;
+}
+
+.contact form textarea {
+    background-color: transparent;
+    border: 1px solid #fff;
+}
+
+.contact form button {
+    background-color: #08d665;
+    border: 1px solid #08d665;
+    color: #fff;
+    padding: 10px 10px;
+    border-radius: 30px;
+    margin-left: 210px;
+}
+
+.box2 {
+    margin-top: 80px;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #fff;
+}
+
+i {
+    color: #08d665;
+    font-size: 30px;
+    margin: 20px 0;
+    margin-right: 20px;
+    padding-left: 20px;
+}
+
+.box2 div {
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.box2 h4 {
+    color: #fff;
+    padding-left: 20px;
+    padding-top: 30px;
+}
